@@ -1,8 +1,8 @@
 # FRT_Project
-This is a  Static Foody (Fruits, Vegetables )ordering website
-Here i create a Website which help users to order fresh Fruits and Vegetables...
+This is a  Static Food blogger website
+Here i create a Website which help users to blog that documents anything from recipes that the user wants to try or experiment, restaurant reviews
 
-## MyWebsite : https://victorious-pebble-07c65c910.1.azurestaticapps.net
+## MyWebsite : https://orange-grass-01aaa4b10.2.azurestaticapps.net
 
 
 ## Home page:
