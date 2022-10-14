@@ -1,5 +1,5 @@
 # FRT_Project
-This is a  Static Food blogger website
+This is a  Static Food blogger website.
 Here i create a Website which help users to blog that documents anything from recipes that the user wants to try or experiment, restaurant reviews
 
 ## MyWebsite : https://orange-grass-01aaa4b10.2.azurestaticapps.net
