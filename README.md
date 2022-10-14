@@ -17,7 +17,7 @@ Here i create a Website which help users to blog that documents anything from re
 ![Screenshot (62)](https://user-images.githubusercontent.com/102404293/195870020-84f23838-6fd3-4914-9a99-4098238f969e.png)
 
 
-##About:
+## About:
 
 
 ![Screenshot (63)](https://user-images.githubusercontent.com/102404293/195870256-7fc0ca83-dceb-4448-a1d1-fe4de5c3132e.png)
@@ -28,7 +28,7 @@ Here i create a Website which help users to blog that documents anything from re
 ![Screenshot (68)](https://user-images.githubusercontent.com/102404293/195870290-04a409b1-53a6-40fb-b45b-468b8c40a9d7.png)
 
 
-#Contact:
+# Contact:
 
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/102404293/195870543-e0007de3-46ee-42d5-abf8-dfed6f070bbf.png)
